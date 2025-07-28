@@ -9,7 +9,8 @@ A simple To-Do List application built with react.Users can add,edit,delete ,and 
 -Filter(all/active/completed)
 -clear completed tasks
 -drag and drop reordering 
-# screensh
+# screenshot
+(image.png)
 # tech stack
 -react
 -CSS
