@@ -43,9 +43,7 @@ export const TodoWrapper = () => {
             ? {
                 ...todo,
                 task,
-                dueDate: dueDate instanceof Date ? dueDate.toISOString() : dueDate || null,
-                priority,
-                isEditing: !todo.isEditing
+                isEditing: false
               }
             : todo
         ));

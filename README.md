@@ -1,3 +1,21 @@
+# To-Do List App
+A simple To-Do List application built with react.Users can add,edit,delete ,and filter tasks with optinal due dates and priorites
+# Features
+-Add new tasks
+-Edit tasks
+-Delete tasks
+-Set due dates
+-Set task priority(high/medium/low)
+-Filter(all/active/completed)
+-clear completed tasks
+-drag and drop reordering 
+# screensh
+# tech stack
+-react
+-CSS
+-javaScript
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
